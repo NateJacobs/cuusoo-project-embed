@@ -14,7 +14,7 @@ A WordPress plugin that allows you to embed information about a [LEGO® Cuusoo](
 
 LEGO® is a trademark of the LEGO Group of companies which does not sponsor, authorize or endorse this plugin.
 
-The main development of the plugin all happens on [GitHub]().
+The main development of the plugin all happens on [GitHub](https://github.com/NateJacobs/cuusoo-project-embed).
 
 ## Installation ##
 

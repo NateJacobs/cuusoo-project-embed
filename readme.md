@@ -24,7 +24,7 @@ The main development of the plugin all happens on [GitHub]().
 
 ## Screenshots ##
 ###1. Embeded project information###
-![Embeded project information](http://s.wordpress.org/extend/plugins/cuusoo-project-embed/screenshot-1.png)
+![Embeded project information](https://raw.github.com/NateJacobs/cuusoo-project-embed/master/screenshot-1.png)
 
 
 ## Changelog ##

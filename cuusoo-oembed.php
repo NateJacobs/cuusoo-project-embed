@@ -1,10 +1,10 @@
 <?php
 
 /**
- *	Plugin Name:	Cuusoo Project Embed
+ *	Plugin Name:		Cuusoo Project Embed
  *	Plugin URI:		https://github.com/NateJacobs/cuusoo-project-embed
- *	Description:	Paste the URL to a LEGO® Cuusoo Project into your post or page and the project information will be automatically displayed.
- *	Version: 		1.0
+ *	Description:		Paste the URL to a LEGO® Cuusoo Project into your post or page and the project information will be automatically displayed.
+ *	Version: 		1.1
  *	Date:			3/23/13
  *	Author:      	Nate Jacobs 
  *
@@ -105,7 +105,7 @@ class CuusooOembed
 	*/
 	public function maybe_handle_oembed() 
 	{
-		// If the query argument is there hand
+		// If the query argument is there
 		if ( isset ( $_GET['cuusoo_oembed'] ) ) 
 		{
 			// Hand it off to the handle_oembed function

@@ -3,10 +3,10 @@
 **Contributors:** NateJacobs   
 **Tags:** lego, brick, cuusoo, idea  
 **Requires at least:** 3.5  
-**Tested up to:** 3.5.1  
-**Stable tag:** 1.0
-**License: GPLv2 or later**
-**License URI: http://www.gnu.org/licenses/gpl-2.0.html**
+**Tested up to:** 3.7  
+**Stable tag:** 1.1 
+**License: GPLv2 or later** 
+**License URI: http://www.gnu.org/licenses/gpl-2.0.html** 
 
 Paste the URL to a LEGO® Cuusoo Project into your post or page and the project information will be automatically displayed.
 
@@ -30,6 +30,9 @@ The main development of the plugin all happens on [GitHub](https://github.com/Na
 
 
 ## Changelog ##
+
+### Version 1.1 ###
+*	Compatible with 3.7
 
 ### Version 1.0 ###
 *	First release
